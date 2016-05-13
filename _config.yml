@@ -1,0 +1,28 @@
+name: Chris Broy Art
+favicon: null
+layout_spectrum: 0.7022758515086025
+typography_spectrum: 0.11080734268762171
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.810251024318859
+  lightness: 0.6883140089921653
+  saturation: 0.4290564504917711
+  rhythmicContrast: 0.9001190920826048
+purpose: []
