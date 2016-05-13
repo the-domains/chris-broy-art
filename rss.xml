@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Chris Broy Art]]></title>
-        <description><![CDATA[Chris Broy Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Art by Chris Broy]]></title>
+        <description><![CDATA[Art by Chris Broy]]></description>
+        <link>https://thegrid.ai/chris-broy-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 03:54:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 03:59:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-broy-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4eea2dd9-491b-452b-8178-98be11af6fb6.jpg">]]></description>
+            <link>https://thegrid.ai/chris-broy-art/engulfed/index.html</link>
+            <guid isPermaLink="false">7713676c-88cf-47b5-bc34-973ec1f90007</guid>
+            <pubDate>Fri, 13 May 2016 03:59:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80d9b40f-32e2-4c71-8307-e4191dcdfad3.png">]]></description>
-            <link>undefinednatsukashii/index.html</link>
+            <link>https://thegrid.ai/chris-broy-art/natsukashii/index.html</link>
             <guid isPermaLink="false">e8ec7591-f6df-4792-b5ce-684af032d243</guid>
             <pubDate>Fri, 13 May 2016 03:54:06 GMT</pubDate>
         </item>
